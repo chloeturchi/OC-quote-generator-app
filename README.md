@@ -1,0 +1,3 @@
+# Quote generator
+
+School project
